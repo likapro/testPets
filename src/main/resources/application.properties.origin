@@ -1,0 +1,13 @@
+spring.datasource.url=
+spring.datasource.username=
+spring.datasource.password=
+
+spring.datasource.driver-class-name=
+spring.jpa.database=
+
+management.endpoints.web.exposure.include=*
+
+role.admin.username=
+role.admin.password=
+role.user.username=
+role.user.password=
